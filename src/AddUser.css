@@ -1,0 +1,17 @@
+.input-field {
+  border: 1px solid #232323;
+  background-color: white;
+  color: #232323;
+  font-size: 1em;
+  font-weight: 400;
+  padding-left: 15px;
+
+}
+
+.input-button {
+  width: 50px;
+  padding: 4px;
+  background-color: gray;
+  float: right;
+  margin-top: 2px;
+}
